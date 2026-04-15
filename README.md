@@ -1,24 +1,85 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚗 Sanjay Tour & Travels
 
-# Run and deploy your AI Studio app
+**Reliable Travel Partner for Comfortable & Affordable Journeys**
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/f374ef85-c856-4d43-b59e-ad8a2a1288e7
+## 🌟 Overview
 
-## Run Locally
+Sanjay Tour & Travels is a modern web platform designed to provide seamless cab booking and tour services. The website offers users an easy way to explore travel packages, book rides, and connect directly via WhatsApp.
 
-**Prerequisites:**  Node.js
+---
+
+## 🚀 Features
+
+* 📍 Easy cab booking system
+* 📞 Direct WhatsApp integration
+* 🧭 Popular routes & tour packages
+* 🖼️ Image gallery for vehicles & trips
+* 💬 Customer testimonials
+* 📱 Fully responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React, HTML, CSS
+* **Backend / Services:** Firebase
+* **Deployment:** Netlify
+* **Tools:** Git, VS Code
+
+---
+
+## 🌐 Live Demo
+
+👉 https://sanjaytourandtravels.com
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── components/
+ ├── assets/
+ ├── App.tsx
+ ├── main.tsx
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/raosahab8746-del/Sanjay-Tour-and-Travels.git
+cd Sanjay-Tour-and-Travels
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
-# Sanjay-Tour-and-Travels
->>>>>>> 3bf725782e92faaf127d02a2a93b05f6f61e2185
+
+## 👨‍💻 Author
+
+**Hemant Yadav**
+📧 [raosahab8746@gmail.com](mailto:raosahab8746@gmail.com)
+🔗 https://github.com/raosahab8746-del
+
+---
+
+## 💼 Open for Opportunities
+
+I am open to freelance, web development, and AI/data-related opportunities.
+
+---
